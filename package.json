@@ -4,6 +4,9 @@
   "workspaces": [
     "packages/*"
   ],
+  "scripts": {
+    "clean": "rm -rf ./node_modules && lerna clean"
+  },
   "devDependencies": {
     "lerna": "^4.0.0"
   }

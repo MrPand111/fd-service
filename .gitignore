@@ -12,3 +12,7 @@ packages/*/lib
 package-lock.json
 yarn.lock
 docs/
+*.log
+
+# project
+packages/ts-gen/service

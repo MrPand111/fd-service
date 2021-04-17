@@ -2,9 +2,8 @@
   "packages": [
     "packages/*"
   ],
-  "version": "1.0.3",
+  "version": "1.0.4",
   "useWorkspaces": true,
-
   "command": {
     "publish": {
       "ignoreChanges": [
@@ -14,7 +13,9 @@
     },
     "bootstrap": {
       "ignore": "component-*",
-      "npmClientArgs": ["--no-package-lock"]      
+      "npmClientArgs": [
+        "--no-package-lock"
+      ]
     }
   },
   "npmClient": "yarn"

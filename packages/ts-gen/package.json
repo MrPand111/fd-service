@@ -27,5 +27,6 @@
   "dependencies": {
     "fs": "^0.0.1-security",
     "minimist": "^1.2.5"
-  }
+  },
+  "gitHead": "3a7eb4a3cb7387ba1edee24550efc9208aef5f2e"
 }

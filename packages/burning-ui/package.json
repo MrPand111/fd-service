@@ -29,13 +29,13 @@
     "url": "https://github.com/MrPand111/fd-service/issues"
   },
   "dependencies": {
-    "html-webpack-plugin": "^5.3.1",
     "vue": "^2.6.12",
     "vue-template-compiler": "^2.6.12"
   },
   "devDependencies": {
     "css-loader": "^5.2.4",
     "element-ui": "^2.15.1",
+    "html-webpack-plugin": "^5.3.1",
     "less": "^4.1.1",
     "less-loader": "^8.1.1",
     "style-loader": "^2.0.0",

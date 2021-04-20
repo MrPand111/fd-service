@@ -1,6 +1,6 @@
 {
   "name": "@fd-service/burning-ui",
-  "version": "1.0.0",
+  "version": "1.0.8",
   "description": "the function components of element-ui",
   "author": "liuchang.panda <liuchang.panda@bytedance.com>",
   "license": "ISC",

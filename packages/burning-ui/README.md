@@ -1,11 +1,3 @@
-# `@fd-service/burning-ui`
+# 目前组件
 
-> TODO: description
-
-## Usage
-
-```
-const burningUi = require('@fd-service/burning-ui');
-
-// TODO: DEMONSTRATE API
-```
+fd-button：测试组件

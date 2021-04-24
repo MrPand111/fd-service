@@ -1,4 +1,3 @@
-
 import { VueConstructor } from 'vue';
 import FdSelect from './src/index.vue';
 

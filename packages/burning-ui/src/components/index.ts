@@ -1,9 +1,11 @@
 import { VueConstructor } from 'vue';
 import FdButton from './fd-button';
+import FdSelect from './fd-select';
 import { BurningUI } from './index.d';
 
 const components = {
-    FdButton
+    FdButton,
+    FdSelect
 };
 
 const install = function(Vue: { component: (arg0: string, arg1: VueConstructor<FdButton>) => void; }) {
@@ -18,7 +20,8 @@ if(window && window.Vue) {
 
 const Burningui: BurningUI = {
     install,
-    FdButton
+    FdButton,
+    FdSelect
 };
 
 export default Burningui;

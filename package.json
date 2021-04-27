@@ -8,6 +8,7 @@
     "clean": "rm -rf ./node_modules && lerna clean"
   },
   "devDependencies": {
-    "lerna": "^4.0.0"
+    "lerna": "^4.0.0",
+    "typescript": "^4.2.4"
   }
 }

@@ -2,4 +2,4 @@
 
 - fd-button：测试组件
 - fd-select：封装自el-select
-- fd-drawer：抽屉组件
+- fd-copy：复制组件

@@ -19,7 +19,7 @@
 <script lang="ts">
 import Vue, { PropType } from 'vue';
 
-type Type = "multiple" | "single";
+export type SelectType = "multiple" | "single";
 interface IOptionsItem {
     label: string;
     value: any;
@@ -34,7 +34,7 @@ const FdSelect = Vue.extend({
         },
         type: {
             required: false,
-            type: String as PropType<Type>,
+            type: String as PropType<SelectType>,
             default: "single"
         },
         placeholder: {
